@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871866320431",
+    "project_id": "talkto-330d3",
+    "storage_bucket": "talkto-330d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871866320431:android:927af7c5f6bf92a9ef68da",
+        "android_client_info": {
+          "package_name": "com.mehar.talkto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXEOs760n7oGSyM3Zujos1fQJcq2BIK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

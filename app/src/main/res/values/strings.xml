@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Talk to</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name = "description">Talk to is a powerful video calling app built with Java, allowing up to 75 users to connect simultaneously. Perfect for virtual meetings, events, or social gatherings, Talk to combines high-quality video and real-time chat in a user-friendly interface.</string>
+    <string name = "description2">
+        1. Group Video Calls: Connect with up to 75 participants in a single call with clear video and audio.\n\n
+
+        2. Real-Time Chat: Share messages and links without interrupting the video call.\n\n
+
+        3. Common Joining Code: Easily invite participants with a unique joining code for secure and quick access.\n\n
+
+        4. User-Friendly Interface: Simple and intuitive design for all users.\n\n
+
+        5. Cross-Platform Support: Use Talk to on smartphones, tablets, or desktops.
+    </string>
+    <string name = "developerinfo">Developed by Meharvaan Singh.</string>
+    <string name = "contact">
+        Call at 123-459-1234\n
+        Email at admin@gmail.com
+
+    </string>
+</resources>
